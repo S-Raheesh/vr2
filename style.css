@@ -1,0 +1,16 @@
+.heading{
+    font-size: 50px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 20px greenyellow;
+}
+.note{
+    color: rgb(255, 255, 255);
+    font-size: 10px;
+}
+canvas{
+    border: 20px solid coral;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+
+}
